@@ -12,3 +12,11 @@ C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\teste_b\obj\Debug\net9.0\refint\teste_b
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\teste_b\obj\Debug\net9.0\teste_b.pdb
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\teste_b\obj\Debug\net9.0\teste_b.genruntimeconfig.cache
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\teste_b\obj\Debug\net9.0\ref\teste_b.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\refint\teste_b.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\teste_b.pdb
