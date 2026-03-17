@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\bin\Debug\net9.0\Quiz_Bird.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\bin\Debug\net9.0\Quiz_Bird.deps.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\bin\Debug\net9.0\Quiz_Bird.runtimeconfig.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\bin\Debug\net9.0\Quiz_Bird.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\bin\Debug\net9.0\Quiz_Bird.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\refint\Quiz_Bird.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\Quiz_Bird.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Quiz_Bird\obj\Debug\net9.0\ref\Quiz_Bird.dll
