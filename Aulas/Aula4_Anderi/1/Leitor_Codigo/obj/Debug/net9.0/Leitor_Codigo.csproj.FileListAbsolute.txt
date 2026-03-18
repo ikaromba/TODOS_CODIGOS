@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\bin\Debug\net9.0\Leitor_Codigo.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\bin\Debug\net9.0\Leitor_Codigo.deps.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\bin\Debug\net9.0\Leitor_Codigo.runtimeconfig.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\bin\Debug\net9.0\Leitor_Codigo.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\bin\Debug\net9.0\Leitor_Codigo.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\refint\Leitor_Codigo.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\Leitor_Codigo.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\1\Leitor_Codigo\obj\Debug\net9.0\ref\Leitor_Codigo.dll

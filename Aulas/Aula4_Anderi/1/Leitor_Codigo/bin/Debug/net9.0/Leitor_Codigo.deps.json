@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Leitor_Codigo/1.0.0": {
+        "runtime": {
+          "Leitor_Codigo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leitor_Codigo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

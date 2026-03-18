@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\bin\Debug\net9.0\Classe_Rpg.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\bin\Debug\net9.0\Classe_Rpg.deps.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\bin\Debug\net9.0\Classe_Rpg.runtimeconfig.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\bin\Debug\net9.0\Classe_Rpg.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\bin\Debug\net9.0\Classe_Rpg.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\refint\Classe_Rpg.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\Classe_Rpg.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula4_Anderi\2\Classe_Rpg\obj\Debug\net9.0\ref\Classe_Rpg.dll
