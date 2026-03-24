@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\bin\Debug\net9.0\Media_Aritimetrica.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\bin\Debug\net9.0\Media_Aritimetrica.deps.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\bin\Debug\net9.0\Media_Aritimetrica.runtimeconfig.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\bin\Debug\net9.0\Media_Aritimetrica.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\bin\Debug\net9.0\Media_Aritimetrica.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\refint\Media_Aritimetrica.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\Media_Aritimetrica.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula5\1_C#\Media_Aritimetrica\obj\Debug\net9.0\ref\Media_Aritimetrica.dll
