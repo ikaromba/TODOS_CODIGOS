@@ -1,5 +1,5 @@
 ﻿using System;
-//using System.Linq;
+using System.Linq;
 
 namespace M_Aritimetrica
 {

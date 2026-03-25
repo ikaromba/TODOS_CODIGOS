@@ -1,0 +1,14 @@
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\bin\Debug\net10.0\Soma_Q.exe
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\bin\Debug\net10.0\Soma_Q.deps.json
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\bin\Debug\net10.0\Soma_Q.runtimeconfig.json
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\bin\Debug\net10.0\Soma_Q.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\bin\Debug\net10.0\Soma_Q.pdb
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.AssemblyInfoInputs.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.AssemblyInfo.cs
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.csproj.CoreCompileInputs.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\refint\Soma_Q.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.pdb
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\Soma_Q.genruntimeconfig.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Soma_Q\obj\Debug\net10.0\ref\Soma_Q.dll

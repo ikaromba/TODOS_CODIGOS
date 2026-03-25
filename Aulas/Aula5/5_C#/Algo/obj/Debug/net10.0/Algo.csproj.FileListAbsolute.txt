@@ -1,0 +1,14 @@
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\bin\Debug\net10.0\Algo.exe
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\bin\Debug\net10.0\Algo.deps.json
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\bin\Debug\net10.0\Algo.runtimeconfig.json
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\bin\Debug\net10.0\Algo.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\bin\Debug\net10.0\Algo.pdb
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.AssemblyInfoInputs.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.AssemblyInfo.cs
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.csproj.CoreCompileInputs.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\refint\Algo.dll
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.pdb
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\Algo.genruntimeconfig.cache
+C:\Users\Ikaro\Desktop\CODIGOS\NOW\2403\Algo\obj\Debug\net10.0\ref\Algo.dll
