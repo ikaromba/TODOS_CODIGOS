@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\bin\Debug\net9.0\Marvel.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\bin\Debug\net9.0\Marvel.deps.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\bin\Debug\net9.0\Marvel.runtimeconfig.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\bin\Debug\net9.0\Marvel.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\bin\Debug\net9.0\Marvel.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.sourcelink.json
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\refint\Marvel.dll
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\Marvel.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Aulas\Aula6\3C#\Marvel\obj\Debug\net9.0\ref\Marvel.dll

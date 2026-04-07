@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Marvel
 {
@@ -23,20 +24,22 @@ namespace Marvel
            Console.WriteLine("------------------------");
            Console.WriteLine("Digite a opção desejada: ");
            string opcao = Console.ReadLine();
+           int contador = 0;
 
             switch (opcao)
             {
                 case "1":
-                //(feito)limitar a quantidade de vezes que chama a função ate 5
-                int contador = 0;
+                //(feito)limitar a quantidade de vezes que chama a função ate 5 [limitar nao esta funcionando pq esta executando dentro da logica e tem que ser amarzenado fora mais da erro]
+                
                 while (contador < 5)
                     {
-                     CadastrarHeroi();   
+                    static List<CadastrarHeroi> listadeherois = new List<CadastrarHeroi>();   
                     }
                 break;
 
                 case "2":
                 //funçao de montar equipe
+                Equipe();
                 break;
 
                 case "3":
@@ -53,7 +56,6 @@ namespace Marvel
             }
         }
         
-
         static void CadastrarHeroi()
         {
             Console.WriteLine("Digite o nome do heroi: ");
@@ -63,8 +65,14 @@ namespace Marvel
             Console.WriteLine("Digite a pontuação do heroi");
             string pontos = Console.ReadLine();
             int pontuação = int.Parse(pontos);
+            Menu();
+        }
+
+        static void Equipe()
+        {
+            Console.WriteLine("Digite o nome de tres herois para sua equipe: ");
             
-        
+
         }
     }
 }
