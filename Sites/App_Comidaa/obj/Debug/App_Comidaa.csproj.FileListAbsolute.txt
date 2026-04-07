@@ -28,14 +28,14 @@ C:\Users\Ikaro\Desktop\App_Comidaa\App_Comidaa\obj\Debug\App_Comidaa.csproj.Gene
 C:\Users\Ikaro\Desktop\App_Comidaa\App_Comidaa\obj\Debug\App_Comidaa.csproj.CoreCompileInputs.cache
 C:\Users\Ikaro\Desktop\App_Comidaa\App_Comidaa\obj\Debug\App_Comidaa.exe
 C:\Users\Ikaro\Desktop\App_Comidaa\App_Comidaa\obj\Debug\App_Comidaa.pdb
-C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.exe.config
-C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.exe
-C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.pdb
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.csproj.AssemblyReference.cache
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.Form1.resources
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.Form2.resources
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.Properties.Resources.resources
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.csproj.GenerateResource.cache
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.exe.config
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\bin\Debug\App_Comidaa.pdb
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.exe
 C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\App_Comidaa\obj\Debug\App_Comidaa.pdb

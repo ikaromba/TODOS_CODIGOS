@@ -73,6 +73,36 @@ namespace App_Comidaa.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap croppedImage {
+            get {
+                object obj = ResourceManager.GetObject("croppedImage", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap croppedImage1 {
+            get {
+                object obj = ResourceManager.GetObject("croppedImage1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cxfhbd {
+            get {
+                object obj = ResourceManager.GetObject("cxfhbd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap df {
             get {
                 object obj = ResourceManager.GetObject("df", resourceCulture);
@@ -96,6 +126,26 @@ namespace App_Comidaa.Properties {
         internal static System.Drawing.Bitmap fg {
             get {
                 object obj = ResourceManager.GetObject("fg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Flag_of_the_Soviet_Union_svg {
+            get {
+                object obj = ResourceManager.GetObject("Flag_of_the_Soviet_Union.svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Flag_of_the_Soviet_Union1 {
+            get {
+                object obj = ResourceManager.GetObject("Flag_of_the_Soviet_Union1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +186,16 @@ namespace App_Comidaa.Properties {
         internal static System.Drawing.Bitmap gjy1 {
             get {
                 object obj = ResourceManager.GetObject("gjy1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap hj {
+            get {
+                object obj = ResourceManager.GetObject("hj", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -206,6 +266,16 @@ namespace App_Comidaa.Properties {
         internal static System.Drawing.Bitmap pngtree_yellow_red_abstract_background_picture_image_2001423 {
             get {
                 object obj = ResourceManager.GetObject("pngtree-yellow-red-abstract-background-picture-image_2001423", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap yfthyty {
+            get {
+                object obj = ResourceManager.GetObject("yfthyty", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

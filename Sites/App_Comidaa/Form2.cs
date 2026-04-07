@@ -21,5 +21,38 @@ namespace App_Comidaa
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string usuario = "Ikaro123";
+            string senha1 = "Gustavao09";
+            if(txtboxnomeusuario.Text == usuario &&  txtboxsenha.Text == senha1)
+            {
+                MessageBox.Show("login realizado com sucesso");
+                Form1 homeForm = new Form1();
+                homeForm.Show();
+                this.Hide();
+                //this.Close();
+            }
+            else if (txtboxnomeusuario.Text != usuario || txtboxsenha.Text != senha1)
+            {
+                MessageBox.Show("Senha ou usuário incorretas ");
+            }
+            else
+            {
+                MessageBox.Show("Senha e usuário incorretas ");
+            }
+            
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtboxnomeusuario_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

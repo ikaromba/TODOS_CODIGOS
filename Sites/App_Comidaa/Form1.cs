@@ -245,5 +245,10 @@ namespace App_Comidaa
         {
 
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
     }

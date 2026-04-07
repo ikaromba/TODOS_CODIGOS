@@ -135,5 +135,26 @@
   <ItemGroup>
     <None Include="Resources\gjy1.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\croppedImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\croppedImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cxfhbd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hj.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_the_Soviet_Union.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yfthyty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flag_of_the_Soviet_Union.svg1.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

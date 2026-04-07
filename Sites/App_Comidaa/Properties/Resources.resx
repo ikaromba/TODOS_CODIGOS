@@ -118,11 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="yfthyty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yfthyty.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="df" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\df.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hj.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pastel-de-calabresa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pastel-de-calabresa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,11 +142,20 @@
   <data name="F86F4B973A42845A9BC03539BC5782FADB847470A6E768A9C4347D2794CE6FBB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\F86F4B973A42845A9BC03539BC5782FADB847470A6E768A9C4347D2794CE6FBB.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="1886806-luz-vermelho-amarelo-desfoque-pano-de-fundo-vetor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1886806-luz-vermelho-amarelo-desfoque-pano-de-fundo-vetor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="gjy" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gjy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="croppedImage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\croppedImage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Flag_of_the_Soviet_Union.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Flag_of_the_Soviet_Union.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-yellow-red-abstract-background-picture-image_2001423" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-yellow-red-abstract-background-picture-image_2001423.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,13 +169,19 @@
   <data name="pastel_de_pizza_250g_bonarce_85748cb3-069f-4403-944b-da4ebe2007a5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pastel_de_pizza_250g_bonarce_85748cb3-069f-4403-944b-da4ebe2007a5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="imagesgfgf" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imagesgfgf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="croppedImage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\croppedImage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="gjy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gjy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cxfhbd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cxfhbd.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imagesgfgf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imagesgfgf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Flag_of_the_Soviet_Union1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Flag_of_the_Soviet_Union.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

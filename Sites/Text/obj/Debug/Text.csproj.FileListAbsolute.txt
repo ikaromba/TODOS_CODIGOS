@@ -1,0 +1,10 @@
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\bin\Debug\Text.exe.config
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\bin\Debug\Text.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\bin\Debug\Text.pdb
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.Form1.resources
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.Properties.Resources.resources
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.exe
+C:\Users\Alunos\Desktop\Eu\TODOS_CODIGOS\Sites\Text\obj\Debug\Text.pdb

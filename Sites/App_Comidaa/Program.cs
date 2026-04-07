@@ -16,7 +16,7 @@ namespace App_Comidaa
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(mainForm: new Form2());
+            Application.Run(new Form2());
         }
     }
 }
