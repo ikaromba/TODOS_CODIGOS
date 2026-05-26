@@ -1,11 +1,16 @@
 # Olá, eu sou o Íkaro 
--Estudante de programação  
--Gosto de desenvolvimento web e jogos  
--Atualmente aprendendo GitHub, HTML, JS, C# e C++
-#Organisação_das_Pastas
--A organisação foi feita em uma só pasta chamada "TODOS_CODIGOS" nessa paste terá todo repetorio que eu estou aprendendo sobre a progamação
--A pasta "IA" nela tera progamação voltado para criação de IA 
--A pasta "LPR" terá codigos voltados para C# e C++
--A pasta "Sites" nesta pasta estara meus sites criados
--A pasta "Stm" tera codigos voltados aos projetos que envolvem o microcontrolador stm32 e sua ferramenta de progamação STM32CubeProgamer
+Bem-vindo ao meu Repertorio! Sou um estudante de programação e aqui estara listado com oque estou mexendoe e aprendendo:
+
+- **Web:** HTML, JavaScript
+- **Linguagens de Programação:** C# e C++
+- **Ferramentas e Hardware:** Git/GitHub, Microcontrolador STM32 (STM32CubeProgrammer)
+
+## 📁 Organização do Repositório
+
+| Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro da pasta principal `TODOS_CODIGOS`.|
+| Pasta      | Descrição                                                                                           |
+| `📂 IA`    | Projetos e códigos voltados para o desenvolvimento de Inteligência Artificial.                      |
+| `📂 LPR`   | Repositório de códigos e exercícios em C# e C++.                                                    |
+| `📂 Sites` | Projetos de desenvolvimento web e sites que criei.                                                  |
+| `📂 Stm`   | Códigos e projetos envolvendo o microcontrolador STM32 e a ferramenta STM32CubeProgrammer.          |
  
