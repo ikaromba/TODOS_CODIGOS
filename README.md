@@ -17,19 +17,20 @@ Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro 
 | `📂 Stm`     | Códigos e projetos envolvendo o microcontrolador STM32 e a ferramenta STM32CubeProgrammer.          |
 | `📂 Criações`| Códigos que eu realmente ache que estão bons para um projeto e estão finalizados.                       |
 
-## 🐦
+#### 🐦 Arte ASCII
 
+```text
  -BIRD
     ____       _____   ____
-   | _  \  () | _  || |  _ \
-   ||_| /  || ||_| // | | | |
-   | _ |   || |   //  | | | |
-   ||_| \  || | |\ \  | | | |
-   |____/  || | | \ \ |____/ 
+   | _  \   () | _  || |  _ \
+   ||_| /   || ||_| // | | | |
+   | _ |    || |   //  | | | |
+   ||_| \   || | |\ \  | | | |
+   |____/   || | | \ \ |____/ 
                         
                     /_/ \             
-                  o/ o   \____      ///
-                  <     ______\___ ////
+                  o/ o   \____     ///
+                  <      ______\___ ////
    _               \  /        \____  /
   \ \______         \  \           _ \
    \ _  __ \          \ _ \________\
