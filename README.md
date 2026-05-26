@@ -2,7 +2,7 @@
 -Estudante de programação  
 -Gosto de desenvolvimento web e jogos  
 -Atualmente aprendendo GitHub, HTML, JS, C# e C++
-##Minha_Organisação
+#Organisação_das_Pastas
 -A organisação foi feita em uma só pasta chamada "TODOS_CODIGOS" nessa paste terá todo repetorio que eu estou aprendendo sobre a progamação
 -A pasta "IA" nela tera progamação voltado para criação de IA 
 -A pasta "LPR" terá codigos voltados para C# e C++
