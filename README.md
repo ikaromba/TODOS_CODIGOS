@@ -7,14 +7,12 @@ Bem-vindo ao meu Repertorio! Sou um estudante de programação e aqui estara lis
 
 ## 📁 Organização do Repositório
 
-| Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro da pasta principal `TODOS_CODIGOS`.  |
-| :--- | :--- |
+Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro da pasta principal `TODOS_CODIGOS`.
+
 | Pasta        | Descrição                                                                                           |
+| :--- | :--- |
 | `📂 IA`      | Projetos e códigos voltados para o desenvolvimento de Inteligência Artificial.                      |
 | `📂 LPR`     | Repositório de códigos e exercícios em C# e C++.                                                    |
 | `📂 Sites`   | Projetos de desenvolvimento web e sites que criei.                                                  |
 | `📂 Stm`     | Códigos e projetos envolvendo o microcontrolador STM32 e a ferramenta STM32CubeProgrammer.          |
-| `📂 Criaçoes`| Códigos que eu realmente ache que esta bom para um projeto e esta finalizado.                       |
-
-
-##
+| `📂 Criações`| Códigos que eu realmente ache que estão bons para um projeto e estão finalizados.                       |
