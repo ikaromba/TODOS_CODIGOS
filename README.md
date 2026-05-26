@@ -16,3 +16,23 @@ Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro 
 | `📂 Sites`   | Projetos de desenvolvimento web e sites que criei.                                                  |
 | `📂 Stm`     | Códigos e projetos envolvendo o microcontrolador STM32 e a ferramenta STM32CubeProgrammer.          |
 | `📂 Criações`| Códigos que eu realmente ache que estão bons para um projeto e estão finalizados.                       |
+
+## 🐦
+
+ -BIRD
+    ____       _____   ____
+   | _  \  () | _  || |  _ \
+   ||_| /  || ||_| // | | | |
+   | _ |   || |   //  | | | |
+   ||_| \  || | |\ \  | | | |
+   |____/  || | | \ \ |____/ 
+                        
+                    /_/ \             
+                  o/ o   \____      ///
+                  <     ______\___ ////
+   _               \  /        \____  /
+  \ \______         \  \           _ \
+   \ _  __ \          \ _ \________\
+Ika  /_/  \ \___________ // //_________
+           \_________________________  \
+                                     |  |
