@@ -14,7 +14,6 @@ Para centralizar e acompanhar a minha evolução, organizei meus estudos dentro 
 | `📂 IA`      | Projetos e códigos voltados para o desenvolvimento de Inteligência Artificial.                      |
 | `📂 LPR`     | Repositório de códigos e exercícios em C# e C++.                                                    |
 | `📂 Sites`   | Projetos de desenvolvimento web e sites que criei.                                                  |
-| `📂 Stm`     | Códigos e projetos envolvendo o microcontrolador STM32 e a ferramenta STM32CubeProgrammer.          |
 | `📂 Criações`| Códigos que eu realmente ache que estão bons para um projeto e estão finalizados.                       |
 
 #### 🐦 Arte ASCII
