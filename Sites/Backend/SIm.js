@@ -7,6 +7,9 @@ const path = require('path');
 const server = http.createServer((req, res) => {
     // __dirname garante que o Node procure o arquivo na pasta correta do script
     // path.join(__dirname, 'index.html') chama seu html
+    res.statusCode = 200;
+    res.setHeader('Content-Type', 'text/html');
+    re
     const caminhoHtml = path.join(__dirname, 'index.html');
     fs.readFile(caminhoHtml, (err, data) => {
         if (err) {
