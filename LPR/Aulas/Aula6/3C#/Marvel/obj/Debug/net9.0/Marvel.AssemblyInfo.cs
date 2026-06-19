@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marvel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba70a5ed049f366422067b4b12bba598c252a17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e637e41b96bb241a5b77df9bcb575736408812")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marvel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marvel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
