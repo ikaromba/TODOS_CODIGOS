@@ -18,9 +18,26 @@ const server = http.createServer((req, res) => {
 
     // 2. Rota hello
     else if (endpoint === '/hello') {
-        const nome = urlParams.searchParams.get('nome') || 'visitante';
+        const nome = urlParams.searchParams.get('nome')
+        const idadeTexto= urlParams.searchParams.get('idade')
         res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
-        res.end(`Hello, ${nome}!`);
+
+        if (nome && idadeTexto){
+            // Convertendo a idade de texto para número inteiro
+            const idade = parseInt(idadeTexto, 10);
+            // Criamos a variável para guardar a resposta do status
+            let statusIdade = "";
+
+            if(idade <= 17){
+             statusIdade ="MEnor de idade";
+            }else{
+            statusIdade="MAior de idade";
+            }
+
+            res.end(`Bem vindo, ${nome}. Voce é ${statusIdade} e tem ${idade} anos.`);//retorna o nome e se vc é menor de idade ou n
+            }else{
+            res.end('insira um nome na e idade na URL. Exemplo: /hello?nome=SeuNome&idade=Suaidade');
+        }
     }
 
     // 3. Rota para a pag birb (°v°√7)
