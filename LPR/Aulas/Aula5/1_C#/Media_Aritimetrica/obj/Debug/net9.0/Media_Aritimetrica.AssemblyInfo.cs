@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Media_Aritimetrica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+685b8ce023855bc943b7aa1795f96dbbba65d2cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d978a0fdb75eb77ccb6bf036a3b70d12182c133a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Media_Aritimetrica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Media_Aritimetrica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

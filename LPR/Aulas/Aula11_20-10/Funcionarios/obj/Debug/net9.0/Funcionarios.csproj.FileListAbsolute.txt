@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\bin\Debug\net9.0\Funcionarios.exe
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\bin\Debug\net9.0\Funcionarios.deps.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\bin\Debug\net9.0\Funcionarios.runtimeconfig.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\bin\Debug\net9.0\Funcionarios.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\bin\Debug\net9.0\Funcionarios.pdb
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.AssemblyInfo.cs
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.sourcelink.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\refint\Funcionarios.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.pdb
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\Funcionarios.genruntimeconfig.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Funcionarios\obj\Debug\net9.0\ref\Funcionarios.dll
