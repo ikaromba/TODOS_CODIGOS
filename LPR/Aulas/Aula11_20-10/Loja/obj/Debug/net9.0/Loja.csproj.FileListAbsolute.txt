@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\bin\Debug\net9.0\Loja.exe
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\bin\Debug\net9.0\Loja.deps.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\bin\Debug\net9.0\Loja.runtimeconfig.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\bin\Debug\net9.0\Loja.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\bin\Debug\net9.0\Loja.pdb
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.AssemblyInfo.cs
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.sourcelink.json
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\refint\Loja.dll
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.pdb
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\Loja.genruntimeconfig.cache
+C:\Users\Alunos\Documents\DT_260901\Eu\TODOS_CODIGOS\LPR\Aulas\Aula11_20-10\Loja\obj\Debug\net9.0\ref\Loja.dll
